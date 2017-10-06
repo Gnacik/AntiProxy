@@ -1,0 +1,5 @@
+name: 'y-AntiProxy-Bungee'
+version: 1.0-BETA
+main: 'net.yooniks.antiproxy.bungee.AntiProxyPlugin'
+authors: ['yooniks']
+website: 'www.youtube.com/c/Enchanted3'

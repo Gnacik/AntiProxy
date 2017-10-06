@@ -1,0 +1,10 @@
+#Gdy gracz bedzie chcial dolaczyc na serwer z proxy/vpn zostanie wyrzucony z tym powodem
+message-kick: "&cNie mozesz wchodzic na serwer z proxy/vpn!"
+
+#Dodatkowa lista
+blocked-ips: #ip bez portu
+  - example_ip
+  - 127.0.0.1
+
+allowed-players:
+  - yooniks

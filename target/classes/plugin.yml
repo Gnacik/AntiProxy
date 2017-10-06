@@ -1,0 +1,6 @@
+name: 'y-AntiProxy-Bukkit'
+version: 1.0-BETA
+main: 'net.yooniks.antiproxy.bukkit.AntiProxyPlugin'
+authors: ['yooniks']
+description: 'Plugin ktory blokuje wchodzenie na serwer z ip proxy!'
+website: 'www.youtube.com/c/Enchanted3'
